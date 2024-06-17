@@ -1,5 +1,5 @@
 # veeam
-for passing the test of veeam
+Implement a script that can synchronize a folder
 
 How to use:
 This script has three parameters in total:
